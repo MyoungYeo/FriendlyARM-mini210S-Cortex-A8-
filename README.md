@@ -1,0 +1,1 @@
+# FriendlyARM-mini210S-Cortex-A8-
